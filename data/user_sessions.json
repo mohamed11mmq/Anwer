@@ -5,10 +5,10 @@
       "user_id": "user_1",
       "ip": "127.0.0.x",
       "geo": {},
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; …",
-      "cookies": "{}",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64…",
+      "cookies": "{\"install_id\": \"fp-366ba966721f531bcc9316cc\", \"session\": \"eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoidXNlcl8xIn0.alN9Ow.yoBzPca8-f1SrTiRBrRi4DV6t-0\"}",
       "timestamp": "2026-07-12T11:40:42.556192",
-      "last_seen": "2026-07-12T11:40:42.556192",
+      "last_seen": "2026-07-12T11:40:43.436277",
       "is_active": true,
       "users_state": {}
     }
