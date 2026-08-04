@@ -14,9 +14,9 @@
         "lon": 45.02
       },
       "user_agent": "Mozilla/5.0 (Linux; Android 10…",
-      "cookies": "{}",
+      "cookies": "{\"install_id\": \"fp-ec8894fcccb3a60c1a476641\", \"session\": \"eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoidXNlcl8xIn0.anInNw.Iy2p9L0KPDoD5TL4h57Im-e2Ep4\"}",
       "timestamp": "2026-08-04T17:53:50.395980",
-      "last_seen": "2026-08-04T17:53:50.395980",
+      "last_seen": "2026-08-04T17:53:59.559707",
       "is_active": true,
       "users_state": {}
     },
