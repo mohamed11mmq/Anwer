@@ -1,6 +1,26 @@
 {
   "installations": [
     {
+      "install_id": "fp-ec8894fcccb3a60c1a476641",
+      "user_id": "user_1",
+      "ip": "209.198.132.x",
+      "geo": {
+        "country": "Yemen",
+        "region": "Aden",
+        "city": "Aden",
+        "timezone": "Asia/Aden",
+        "isp": "Space Exploration Technologies Corporation",
+        "lat": 12.79,
+        "lon": 45.02
+      },
+      "user_agent": "Mozilla/5.0 (Linux; Android 10…",
+      "cookies": "{}",
+      "timestamp": "2026-08-04T17:53:50.395980",
+      "last_seen": "2026-08-04T17:53:50.395980",
+      "is_active": true,
+      "users_state": {}
+    },
+    {
       "install_id": "fp-03b44876beeec230db76b60b",
       "user_id": "user_1",
       "ip": "209.198.132.x",
